@@ -1,1 +1,1 @@
-# KKARROLL GROUP - Website (React + Vite + Tailwind)\n\nInstruções rápidas:\n\n1. Instalar dependências:\n   npm install\n\n2. Iniciar em dev:\n   npm run dev\n\n3. Colocar assets em public/assets/:\n   - IMG-20250818-WA0111.jpg (logo)\n   - hero.mp4 (opcional)\n\n4. Deploy recomendado:\n   - Vercel ou Netlify.\n\nNotas sobre DNS:\n- Após adicionar domínio ao Vercel, siga as instruções que o painel indicar para adicionar registos no teu registrar.\n
+# KKARROLL GROUP — Website (Dark Modern Theme)\n\nSee README in project root for deployment steps.\n
